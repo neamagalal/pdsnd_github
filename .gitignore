@@ -1,1 +1,7 @@
-.github/**
+# ignore ALL .csv files
+*.csv
+
+# ignore ALL files in ANY directory named chicago,newyork,washintgon
+chicago/
+new_york_city/
+washington/
